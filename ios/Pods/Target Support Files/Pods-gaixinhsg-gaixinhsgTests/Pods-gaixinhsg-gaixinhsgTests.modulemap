@@ -1,0 +1,6 @@
+module Pods_gaixinhsg_gaixinhsgTests {
+  umbrella header "Pods-gaixinhsg-gaixinhsgTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

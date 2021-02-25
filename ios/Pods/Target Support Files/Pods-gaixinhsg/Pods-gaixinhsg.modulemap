@@ -1,0 +1,6 @@
+module Pods_gaixinhsg {
+  umbrella header "Pods-gaixinhsg-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -27,10 +27,6 @@ export default function App() {
       }
     })()
 
-    setTimeout(() =>{
-      setLoading(false)
-    }, 3000)
-
   }, []);
 
   const authContext = React.useMemo(() => ({

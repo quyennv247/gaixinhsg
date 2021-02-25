@@ -38,10 +38,7 @@ const LandingScreen = () => {
         <SafeAreaView style={style.container}>
             <StatusBar backgroundColor={COLORS.bgHeader} barStyle="dark-content" />
             <View style={style.body}>
-                <Image source={ require('../assets/images/gaixinhsg.png') }/>
-                <View style={style.info}>
-                    <Text style={style.title}>GAIXINHSG.INFO</Text>
-                </View>
+                <Image style={style.logo} source={ require('../assets/images/gaixinhsg.png') }/>
             </View>
         </SafeAreaView>
     )
@@ -58,7 +55,7 @@ const style = StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'center',
         alignContent: 'center',
-        backgroundColor: COLORS.bgHeader
+        backgroundColor: COLORS.white
     },
 
     info: {
@@ -75,6 +72,11 @@ const style = StyleSheet.create({
         fontWeight: '600',
         color: COLORS.primary
     },
+
+    logo: {
+        width: 300,
+        height: 150
+    }
 })
 
 export default LandingScreen;
