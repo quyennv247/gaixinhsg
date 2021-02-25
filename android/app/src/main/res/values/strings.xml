@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">gaixinhsg</string>
+    <string name="app_name">Gái Xinh</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">HVASRm8OuWCjg_UQXZ2pYhXEcGJgUkAamyfE0</string>
 </resources>

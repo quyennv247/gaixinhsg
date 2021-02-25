@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gaixinhsg.iml" filepath="$PROJECT_DIR$/.idea/modules/gaixinhsg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/gaixinhsg.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/gaixinhsg.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/332214973/gaixinhsg.react-native-code-push.iml" filepath="$PROJECT_DIR$/.idea/modules/332214973/gaixinhsg.react-native-code-push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1376214685/gaixinhsg.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1376214685/gaixinhsg.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/801178992/gaixinhsg.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/801178992/gaixinhsg.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-994771680/gaixinhsg.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-994771680/gaixinhsg.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/333118518/gaixinhsg.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/333118518/gaixinhsg.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1645169591/gaixinhsg.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1645169591/gaixinhsg.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1083792721/gaixinhsg.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1083792721/gaixinhsg.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/243571717/gaixinhsg.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/243571717/gaixinhsg.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1111380576/gaixinhsg.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1111380576/gaixinhsg.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/57354872/gaixinhsg.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/57354872/gaixinhsg.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/541474687/gaixinhsg.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/541474687/gaixinhsg.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/709733804/gaixinhsg.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/709733804/gaixinhsg.react-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-683702550/gaixinhsg.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/-683702550/gaixinhsg.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>
